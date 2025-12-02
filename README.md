@@ -1,5 +1,5 @@
 
-# <img width="200" height="200" alt="虚拟服务器存储申请" src="https://github.com/user-attachments/assets/36bd8274-1a7a-45d8-97f3-d99eeaf3c907" /> File Server文件服务器
+# <img width="20" height="20" alt="虚拟服务器存储申请" src="https://github.com/user-attachments/assets/36bd8274-1a7a-45d8-97f3-d99eeaf3c907" /> File Server文件服务器
 
 这是一个基于 Go 语言开发的轻量级 HTTP 文件服务器。它摒弃了传统的固定密码认证，集成了 Google Authenticator (TOTP) 双重验证机制，为您的文件传输提供更高的安全性。
 
