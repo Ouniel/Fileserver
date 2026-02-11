@@ -193,7 +193,7 @@ fileserver/
 
 ## License
 
-This project is open-sourced under **Apache License 2.0**. You are free to use, modify, and distribute this software, but must retain the original copyright and license notices when distributing modified versions.
+This project is open-sourced under **Apache License 2.0**. 
 
 ## ⚠️ Disclaimer
 
